@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9904e285-c117-46ea-8f02-64ea259cbd08" name="Changes" comment="feat: My First Commit" />
+    <list default="true" id="9904e285-c117-46ea-8f02-64ea259cbd08" name="Changes" comment="feat: My First Commit">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BharaviS"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/BharaviS/FirstChatBot.git",
@@ -65,6 +73,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Bharavi\Programs\Python\AI-Ml\chat bots\FirstChatBot\backend" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Bharavi\Programs\Python\AI-Ml\chat bots\FirstChatBot" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -97,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777840552591</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: My First Commit">
+      <option name="closed" value="true" />
+      <created>1777840733951</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777840733952</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: My First Commit">
+      <option name="closed" value="true" />
+      <created>1777840821925</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777840821926</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
